@@ -1,0 +1,13 @@
+F:\Prgramme\Visual Studio repros\2D-Arrays\2D-Arrays\bin\Debug\netcoreapp3.1\2D-Arrays.exe
+F:\Prgramme\Visual Studio repros\2D-Arrays\2D-Arrays\bin\Debug\netcoreapp3.1\2D-Arrays.deps.json
+F:\Prgramme\Visual Studio repros\2D-Arrays\2D-Arrays\bin\Debug\netcoreapp3.1\2D-Arrays.runtimeconfig.json
+F:\Prgramme\Visual Studio repros\2D-Arrays\2D-Arrays\bin\Debug\netcoreapp3.1\2D-Arrays.runtimeconfig.dev.json
+F:\Prgramme\Visual Studio repros\2D-Arrays\2D-Arrays\bin\Debug\netcoreapp3.1\2D-Arrays.dll
+F:\Prgramme\Visual Studio repros\2D-Arrays\2D-Arrays\bin\Debug\netcoreapp3.1\2D-Arrays.pdb
+F:\Prgramme\Visual Studio repros\2D-Arrays\2D-Arrays\obj\Debug\netcoreapp3.1\2D-Arrays.AssemblyInfoInputs.cache
+F:\Prgramme\Visual Studio repros\2D-Arrays\2D-Arrays\obj\Debug\netcoreapp3.1\2D-Arrays.AssemblyInfo.cs
+F:\Prgramme\Visual Studio repros\2D-Arrays\2D-Arrays\obj\Debug\netcoreapp3.1\2D-Arrays.csproj.CoreCompileInputs.cache
+F:\Prgramme\Visual Studio repros\2D-Arrays\2D-Arrays\obj\Debug\netcoreapp3.1\2D-Arrays.dll
+F:\Prgramme\Visual Studio repros\2D-Arrays\2D-Arrays\obj\Debug\netcoreapp3.1\2D-Arrays.pdb
+F:\Prgramme\Visual Studio repros\2D-Arrays\2D-Arrays\obj\Debug\netcoreapp3.1\2D-Arrays.genruntimeconfig.cache
+F:\Prgramme\Visual Studio repros\2D-Arrays\2D-Arrays\obj\Debug\netcoreapp3.1\2D-Arrays.csprojAssemblyReference.cache
