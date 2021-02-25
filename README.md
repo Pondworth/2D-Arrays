@@ -1,5 +1,6 @@
 # 2D-Arrays
 short test of 2D Arrays. 
+thx to the tutorials: https://www.youtube.com/channel/UCVdfgrCLfJQfO5EgPlzaYAQ
 
 ```c#
 using System;
